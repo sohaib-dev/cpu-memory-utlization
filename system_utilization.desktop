@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=system_info
+GenericName=system_info
+Comment=Hello Open Source World
+Exec=system_info
+Terminal=true
+Type=Application
+Categories=Utility;
+StartupNotify=true
+StartupWMClass=system_info
